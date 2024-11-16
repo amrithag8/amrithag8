@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amrutha</h1>
-<h3 align="center">A passionate full-stack developer with expertise in the MERN stack. Over the past few years, I’ve gained hands-on experience in building scalable web applications, designing RESTful APIs, and creating dynamic user interfaces.</h3>
+<p align="center">A passionate full-stack developer with expertise in the MERN stack. Over the past few years, I’ve gained hands-on experience in building scalable web applications, designing RESTful APIs, and creating dynamic user interfaces.</p>
 
-- 🌱 I’m currently learning **Angular js**
 
-<h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 </p>
 
