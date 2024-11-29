@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Amrutha</h1>
 <p>A passionate full-stack developer with expertise in the MERN stack. Over the past few years, I’ve gained hands-on experience in building scalable web applications, designing RESTful APIs, and creating dynamic user interfaces.</p>
 
-- 🔭 I’m currently working on **Movies Prime GPT**
+- 🔭 I’m currently working on **HelloChat Application**
 
 - 🌱 I’m currently learning **Angular js**
 
