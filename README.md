@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **HelloChat Application**
 
-- 🌱 I’m currently learning **Angular js**
+- 🌱 I’m currently learning **Angular js**, **ASP.net**
 
 - 💬 Ask me about **React js, Javascript, Node js and Express js**
 
