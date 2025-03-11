@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Amrutha</h1>
 <p>A passionate full-stack developer with expertise in the MERN stack. Over the past few years, I’ve gained hands-on experience in building scalable web applications, designing RESTful APIs, and creating dynamic user interfaces.</p>
 
-- 🔭 I’m currently working on **HelloChat Application**
+- 🔭 I’m currently working on **ECommerce Application**
 
 - 🌱 I’m currently learning **Angular js**, **ASP.net**
 
-- 💬 Ask me about **React js, Javascript, Node js and Express js**
+- 💬 Ask me about **ASP.NET, React js, Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
