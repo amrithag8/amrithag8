@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Amrutha</h1>
 <p>A passionate full-stack developer with expertise in ASP.NET and MERN stack. Over the past few years, I’ve gained hands-on experience in building scalable web applications, designing RESTful APIs, and creating dynamic user interfaces.</p>
 
-- 🔭 I’m currently working on **Job Seeker Application**
+- 🔭 I’m currently working on **Rag based document search**
 
 - 🌱 I’m currently learning **Angular js**, **ASP.net**
 
